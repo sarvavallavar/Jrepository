@@ -12668,11 +12668,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\bootstrap_prj\\WebApplicationCore\\WebApplicationCore\\WebApplicationCore.csproj",
+      "projectUniqueName": "D:\\GITHUB\\WebApplicationCore\\WebApplicationCore\\WebApplicationCore.csproj",
       "projectName": "WebApplicationCore",
-      "projectPath": "D:\\bootstrap_prj\\WebApplicationCore\\WebApplicationCore\\WebApplicationCore.csproj",
+      "projectPath": "D:\\GITHUB\\WebApplicationCore\\WebApplicationCore\\WebApplicationCore.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\bootstrap_prj\\WebApplicationCore\\WebApplicationCore\\obj\\",
+      "outputPath": "D:\\GITHUB\\WebApplicationCore\\WebApplicationCore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
